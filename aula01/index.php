@@ -12,10 +12,7 @@ $nome = "Eduardo e Pierri";
 $idade = (16+18)/2;
 $altura = (1.74 + 1.69)/2;
 $peso = 75.40;
-$tamano_penis = 200;
 echo "Eu tenho $altura quilometros de altura";
-echo "<br>";
-echo "meu penis tem $tamano_penis quilometros de tamanho";
 echo "<br>";
 
 var_dump($nome);
